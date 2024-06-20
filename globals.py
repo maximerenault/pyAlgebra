@@ -1,0 +1,1 @@
+MONOMIAL_ORDERING = "degrevlex"
